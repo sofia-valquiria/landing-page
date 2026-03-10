@@ -1,2 +1,2 @@
-# Challenge_A-Teamwork_Insurezella
-A responsive website
+# Landing page
+A personal website to prove I'm a webdev
